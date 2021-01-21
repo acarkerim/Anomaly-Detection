@@ -1,6 +1,6 @@
 # Anomaly Detection in Factoring Transactions
 
-This repository is created to present my [Master's Thesis](https://github.com/acarkerim/Anomaly-Detection/blob/master/AnomalyDetectionProject.pdf) and [R code](https://github.com/acarkerim/Anomaly-Detection/blob/master/AnomalyDetectionProject.R) of the [Master's Degree in Big Data Analytics](https://bda.mef.edu.tr/en#gsc.tab=0) guided by Ozgur Ozluk, PhD.
+This repository is created to present [R code](https://github.com/acarkerim/Anomaly-Detection/blob/master/AnomalyDetectionProject.R) of the study and [Master's Thesis Report](https://github.com/acarkerim/Anomaly-Detection/blob/master/AnomalyDetectionProject.pdf)  of the [Master's Degree in Big Data Analytics](https://bda.mef.edu.tr/en#gsc.tab=0) guided by Ozgur Ozluk, PhD.
 
 
 ## Abstract
