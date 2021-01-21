@@ -1,1 +1,1 @@
-# capstoneAnomalyDetection
+# Anomaly Detection Thesis
