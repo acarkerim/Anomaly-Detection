@@ -1,1 +1,1 @@
-# Anomaly Detection Thesis
+# Anomaly Detection Project
